@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sqltest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_edit">Edit</string>
+
+</resources>
